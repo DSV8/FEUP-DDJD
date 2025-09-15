@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{56f0a96c-56be-4498-8858-84a3a3d7d3e3}">
+		<property name="name">
+			<value>Medium Priority</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5438a89b-e57d-4206-bf82-8de18a73e2d4}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,93 @@
+---- qbsp / ericw-tools 2.0.0-alpha8 ----
+
+--- Options Summary ---
+    "q2bsp" was set to "1" (from command line)
+    "chop" was set to "1" (from game target)
+    "notex" was set to "1" (from command line)
+    "maxedges" was set to "0" (from game target)
+
+Input file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/TestLevel.map
+Output file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/TestLevel.bsp
+
+using gamedir: '/Users/pedro/Documents/GitHub/ddjd2/Assets/Levels'
+WARNING: failed to find basedir '/Users/pedro/Documents/GitHub/ddjd2/Assets/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+WARNING: Couldn't locate texture for skip
+     1 entities
+     3 unique textures
+    15 texinfos
+    38 unique planes
+
+INFO: world extents calculated to 728 units
+     4 brushes
+    24 sides
+     4 side bevels
+
+Processing map...
+    4 SOLID brushes
+    4 brushes total
+    24 visible sides
+INFO: calculating BSP for 4 brushes with 24 sides
+chopped 4 brushes into 4
+     4 brushes
+    24 visible faces
+    19 nodes
+    19 expensive split nodes
+    20 leaves
+     4 SOLID leafs
+    16 EMPTY leafs
+    20 leafs total
+    9 max tree height
+    6 avg tree height
+    111 tree portals
+WARNING: No entities in empty space -- no filling performed (hull 0)
+    1 area portals
+    111 tree portals
+    62 sides visible
+    31 makefaces
+     1 merged
+    15 subdivided
+    16 player-occupiable leaves
+    16 clusters of leaves
+    46 vis portals
+     4 SOLID leafs
+    16 EMPTY leafs
+    20 leafs total
+    9 max tree height
+    6 avg tree height
+     36 edges added by tjunctions
+     45 faces optimized through MWT
+    126 triangles computed from MWT
+     12 faces created via optimization of MWT triangles
+    120 edges
+     57 faces
+     4 total brushes
+    28 total brush sides
+     4 total leaf brushes
+Writing TestLevel.bsp as Quake II BSP IBSP:38
+Wrote TestLevel.bsp
+
+count   lump name    byte size 
+      1 models               48
+     33 planes              660
+     65 vertexes            780
+     19 nodes               532
+     14 texinfos           1064
+     57 faces              1140
+     21 leafs               588
+     59 leaffaces           118
+      4 leafbrushes           8
+    121 edges               484
+    240 surfedges           960
+      4 brushes              48
+     28 brushsides          112
+      1 areas                 8
+      1 areaportals           8
+        lightdata             0
+        visdata               0
+        entdata              30
+
+0.009s seconds elapsed
+
+

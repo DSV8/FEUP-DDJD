@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EventFolder" id="{3b1779bc-62f5-4a74-b3c9-9ea27dfdd29b}">
+		<property name="name">
+			<value>Saltar e Aterrar</value>
+		</property>
+		<relationship name="folder">
+			<destination>{80ef23d5-acdd-4b41-a7f3-7480b9835430}</destination>
+		</relationship>
+	</object>
+</objects>

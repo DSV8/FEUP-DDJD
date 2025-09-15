@@ -1,0 +1,106 @@
+---- qbsp / ericw-tools 2.0.0-alpha8 ----
+
+--- Options Summary ---
+    "q2bsp" was set to "1" (from command line)
+    "chop" was set to "1" (from game target)
+    "notex" was set to "1" (from command line)
+    "maxedges" was set to "0" (from game target)
+
+Input file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/island.map
+Output file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/island.bsp
+
+using gamedir: '/Users/pedro/Documents/GitHub/ddjd2/Assets/Levels'
+WARNING: failed to find basedir '/Users/pedro/Documents/GitHub/ddjd2/Assets/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+WARNING: Couldn't locate texture for skip
+        6 entities
+        8 unique textures
+    1,327 texinfos
+    6,024 unique planes
+
+INFO: world extents calculated to 17037 units
+      793 brushes
+    6,350 sides
+    4,781 side bevels
+
+Processing map...
+WARNING: island.map[line 1284]: Healing degenerate edge (3.1402591331123406e-05) at (-962.500 -2.76e+03 2.51e+03)
+WARNING: island.map[line 1328]: Healing degenerate edge (5.3385938604931595e-05) at (707.000 -1.04e+03 2.51e+03)
+WARNING: island.map[line 1333]: Healing degenerate edge (6.322393128155243e-05) at (504.000 -1.71e+03 2.51e+03)
+    793 SOLID brushes
+    793 brushes total
+    6,350 visible sides
+INFO: calculating BSP for 793 brushes with 6350 sides
+chopped 793 brushes into 793
+    4 brushes created from the chompening
+      793 brushes
+    6,346 visible faces
+        4 non-visible faces
+    35,131 nodes
+     4,231 expensive split nodes
+    30,900 mid-split nodes
+    35,132 leaves
+    26,223 SOLID leafs
+     8,909 EMPTY leafs
+    35,132 leafs total
+    56 max tree height
+    23 avg tree height
+    2,667 tiny portals
+    126,660 tree portals
+WARNING: No entities in empty space -- no filling performed (hull 0)
+    1 area portals
+    2,667 tiny portals
+    126,660 tree portals
+WARNING: 64 sides not found (use -verbose to display)
+    28,852 sides visible
+    14,426 makefaces
+     3,031 merged
+     4,160 subdivided
+    13,799 nodes pruned
+    1,223 tiny portals
+     8,909 player-occupiable leaves
+     8,909 clusters of leaves
+    29,049 vis portals
+    12,424 SOLID leafs
+     8,909 EMPTY leafs
+    21,333 leafs total
+    56 max tree height
+    22 avg tree height
+        17 edges degenerated
+    11,063 edges added by tjunctions
+    13,407 faces optimized through MWT
+    38,467 triangles computed from MWT
+     2,790 faces created via optimization of MWT triangles
+    38,818 edges
+    18,345 faces
+       793 total brushes
+    11,131 total brush sides
+    21,165 total leaf brushes
+     1,622 optimized brush side texinfos
+Writing island.bsp as Quake II BSP IBSP:38
+Wrote island.bsp
+
+count   lump name    byte size 
+      1 models               48
+   7472 planes           149440
+  20061 vertexes         240732
+  21332 nodes            597296
+   1027 texinfos          78052
+  18345 faces            366900
+  21334 leafs            597352
+  19427 leaffaces         38854
+  21165 leafbrushes       42330
+  38819 edges            155276
+  77310 surfedges        309240
+    793 brushes            9516
+  11131 brushsides        44524
+      1 areas                 8
+      1 areaportals           8
+        lightdata             0
+        visdata               0
+        entdata              49
+
+1.181s seconds elapsed
+
+

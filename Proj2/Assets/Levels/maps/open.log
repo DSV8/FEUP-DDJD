@@ -1,0 +1,103 @@
+---- qbsp / ericw-tools 2.0.0-alpha8 ----
+
+--- Options Summary ---
+    "q2bsp" was set to "1" (from command line)
+    "chop" was set to "1" (from game target)
+    "notex" was set to "1" (from command line)
+    "maxedges" was set to "0" (from game target)
+
+Input file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/open.map
+Output file: /Users/pedro/Documents/GitHub/ddjd2/Assets/Levels/maps/open.bsp
+
+using gamedir: '/Users/pedro/Documents/GitHub/ddjd2/Assets/Levels'
+WARNING: failed to find basedir '/Users/pedro/Documents/GitHub/ddjd2/Assets/baseq2'
+LoadPCXPalette: Failed to load 'pics/colormap.pcx'.
+INFO: using built-in palette.
+WARNING: Couldn't locate texture for skip
+        5 entities
+        4 unique textures
+    1,389 texinfos
+    4,236 unique planes
+
+INFO: world extents calculated to 20425 units
+      296 brushes
+    2,815 sides
+    3,309 side bevels
+
+Processing map...
+    296 SOLID brushes
+    296 brushes total
+    2,815 visible sides
+INFO: calculating BSP for 296 brushes with 2815 sides
+chopped 296 brushes into 296
+    10 brushes created from the chompening
+      296 brushes
+    2,811 visible faces
+       10 non-visible faces
+    18,513 nodes
+       108 expensive split nodes
+    18,405 mid-split nodes
+    18,514 leaves
+    12,018 SOLID leafs
+     6,496 EMPTY leafs
+    18,514 leafs total
+    41 max tree height
+    20 avg tree height
+    239 tiny portals
+    73,908 tree portals
+WARNING: No entities in empty space -- no filling performed (hull 0)
+    1 area portals
+    239 tiny portals
+    73,908 tree portals
+WARNING: 13 sides not found (use -verbose to display)
+    24,312 sides visible
+    12,156 makefaces
+     2,229 merged
+     7,571 subdivided
+    6,857 nodes pruned
+    130 tiny portals
+     6,496 player-occupiable leaves
+     6,496 clusters of leaves
+    22,440 vis portals
+     5,161 SOLID leafs
+     6,496 EMPTY leafs
+    11,657 leafs total
+    38 max tree height
+    18 avg tree height
+         6 edges degenerated
+    16,354 edges added by tjunctions
+    14,922 faces optimized through MWT
+    47,012 triangles computed from MWT
+     4,358 faces created via optimization of MWT triangles
+    46,686 edges
+    21,856 faces
+      296 total brushes
+    6,124 total brush sides
+    7,981 total leaf brushes
+      663 optimized brush side texinfos
+Writing open.bsp as Quake II BSP IBSP:38
+Wrote open.bsp
+
+count   lump name    byte size 
+      1 models               48
+   5964 planes           119280
+  24772 vertexes         297264
+  11656 nodes            326368
+   1248 texinfos          94848
+  21856 faces            437120
+  11658 leafs            326424
+  23528 leaffaces         47056
+   7981 leafbrushes       15962
+  46687 edges            186748
+  93303 surfedges        373212
+    296 brushes            3552
+   6124 brushsides        24496
+      1 areas                 8
+      1 areaportals           8
+        lightdata             0
+        visdata               0
+        entdata              30
+
+0.836s seconds elapsed
+
+

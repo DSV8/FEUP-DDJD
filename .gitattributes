@@ -1,9 +1,0 @@
-# Force LF for text files
-*.json text eol=lf
-*.txt text eol=lf
-*.asset text eol=lf
-*.cs text eol=lf
-*.sh text eol=lf
-
-# Force CRLF for Windows-specific scripts if needed
-*.bat text eol=crlf

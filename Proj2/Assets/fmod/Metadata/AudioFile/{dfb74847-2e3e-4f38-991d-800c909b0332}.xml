@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{dfb74847-2e3e-4f38-991d-800c909b0332}">
+		<property name="assetPath">
+			<value>queda livre (grito).wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>4.6165000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e9bcea03-cb84-4beb-9068-7012a56f734f}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,64 @@
+{f895881d-5174-488d-8505-b1f234f64501} bank:/Armas e Escudo
+{0951ce66-7b5d-44b3-a34e-2660d534f57d} bank:/Boss Final
+{405a5e33-5cc4-4337-80fd-69bbcb93f0cd} bank:/Inimigos
+{3afafa0c-3339-40f7-9b5e-77e82e609c28} bank:/Itens
+{0c288fa0-908b-45b4-a09f-1bf28ea4629a} bank:/Loja
+{7b3966e3-5e6f-4c50-abfa-be7e03354d39} bank:/Master
+{e3244637-2f14-0012-2db3-3480f2c64ba1} bank:/Master.strings
+{87444f4a-699b-47cf-8923-4e164ce4bf89} bank:/Músicas
+{7c340c46-46ca-44eb-9b38-dae8f2c222b4} bank:/Personagem Principal
+{9293bf75-d6e7-4453-9940-e8a958e40f16} bank:/Power Ups
+{c1b63c74-0a2e-48db-b196-d6219f014f05} bank:/ddjd2
+{9e044738-c63c-4d3b-9f67-a0a299d85d3f} bus:/
+{25cc3658-82de-4d4b-ae61-ca13496ff91d} bus:/Reverb
+{8d55c7a8-4ba9-4054-997e-e0087fcacd5a} event:/High Priority/Catana 1
+{54cc2f67-5eb5-4a1c-9639-04b9f0e41f91} event:/High Priority/Catana 2
+{d1151a97-147f-46ba-bb68-431e159910e5} event:/High Priority/Disparo de Arma
+{5a361c04-9d4f-471f-9231-b4e0de521df7} event:/High Priority/Gameplay Music
+{0a7e0963-b6ff-480c-83b0-bf7c65e4dee4} event:/High Priority/Passos/1 passo
+{0e0d4711-cf46-42f4-8a34-892d432a0469} event:/High Priority/Passos/1 passo (multi-instrument)
+{3c99aede-79a9-49a5-8267-ed5eb3bb2a53} event:/High Priority/Passos/2 passos
+{31e23add-3c51-4b4e-9f84-997ac7a2ac93} event:/High Priority/Passos/Correr curto
+{923809c7-e024-4c2b-bb0a-03cec9a8d3b8} event:/High Priority/Passos/Correr grande
+{7943e208-afe6-4ce9-910b-04e4748d443d} event:/High Priority/Queda Livre/Grito
+{8a15c744-3d82-4a0d-956f-654d1fb6324f} event:/High Priority/Queda Livre/Impacto no chão
+{1c84761b-efd7-4197-8892-2d2832d3c793} event:/High Priority/Queda Livre/Queda Livre
+{8168598e-e903-460e-b8bc-370f4c1ff9dd} event:/High Priority/Rastejar
+{ee2eaf36-b4a0-41e2-85bb-d511b7fe0ea7} event:/High Priority/Saltar e Aterrar/Aterrar 1
+{40ea9dc1-02ee-4a2f-9825-1862c11c4b9b} event:/High Priority/Saltar e Aterrar/Aterrar 2
+{32c5958f-d394-4e5a-8054-690235c61e0f} event:/High Priority/Saltar e Aterrar/Aterrar 3
+{8f8b0b65-b569-47d2-a78e-865c098a2252} event:/High Priority/Saltar e Aterrar/Saltar 1
+{def1d110-e1aa-4a8a-8fe9-394f3e5ad872} event:/High Priority/Saltar e Aterrar/Saltar 2
+{73b24af3-2970-4703-8735-748b17a05231} event:/Low Priority/Ambient Music
+{2014af60-4864-4caa-80c8-80cedad24b1b} event:/Low Priority/Boss Final/Laser
+{2c8c3fae-18fa-4dff-be93-459ea19964c7} event:/Low Priority/Boss Final/Laser contínuo
+{5e78390f-1e81-4641-8d09-1e242e17e2b6} event:/Low Priority/Boss Final/Patas Metálicas
+{04548f15-d420-49e1-8aec-61e97291ae3f} event:/Low Priority/Dano/Dano 1
+{47a0328e-d0df-4d5c-b378-73e423ace1d1} event:/Low Priority/Dano/Dano 2
+{28dfe102-9131-44e4-8489-5077df3850bd} event:/Low Priority/Dano/Dano 3
+{a1cbd2e9-0507-4863-8294-5a45996be7a7} event:/Low Priority/Inimigos/Andar
+{4a1511cd-eab2-44ea-8dd3-46038d16f6a0} event:/Low Priority/Inimigos/Correr
+{45a72676-781b-47b3-ae73-fd0ccfe255a4} event:/Low Priority/Inimigos/Voz engraçada
+{9164fd9a-500b-4d7c-be8a-805f8c7fae3f} event:/Low Priority/Morrer
+{ba89553b-2957-412c-9d58-4b24051d5d6c} event:/Low Priority/Power Up/Power Up 1
+{1bbb239a-fe61-4aab-b637-ff3faa192f82} event:/Low Priority/Power Up/Power Up 2
+{44785da0-b97e-4c19-bdcc-24a51db271ce} event:/Low Priority/Power Up/Power Up 3
+{23c2b3a0-09c6-4834-b4c8-0dccd511a1e5} event:/Medium Priority/Abrir Caixa de Itens
+{b33280eb-be81-4e4b-a1fd-a5ac477c67f7} event:/Medium Priority/Abrir Loja
+{9649c36a-a806-426f-9ece-be9f16c581be} event:/Medium Priority/Adquirir Moedas
+{496bedbc-bb03-4af5-a02c-e890f0592132} event:/Medium Priority/Agachar (baixo)
+{e001927c-23fb-4af9-a7a1-4025d3a4c0c7} event:/Medium Priority/Agachar (cima)
+{ed18f312-1786-4b1c-bdf5-a756945e2dfe} event:/Medium Priority/Ativar Escudo
+{ce9c2426-624f-4344-8eaa-b436cfc1a66c} event:/Medium Priority/Barreira de energia (contínua)
+{8365236c-7571-485e-a4d3-561161b0064b} event:/Medium Priority/Barreira de energia (uma)
+{04abb719-f689-4225-9112-dc7798dcd95b} event:/Medium Priority/Choque elétrico (escudo)
+{2e559a05-5af3-4087-b9fa-5131a8c1d4d4} event:/Medium Priority/Dash 1
+{03d6448c-9c46-4969-aaee-a5bd46e7ac7c} event:/Medium Priority/Dash 2
+{1f9df0b8-bb3a-42f9-9f45-46f4cd39fd5c} event:/Medium Priority/Desativar Escudo
+{660ec049-f90f-4b58-b5cf-a231de39d6a3} event:/Medium Priority/Deslizar
+{94001fe8-6260-4c9e-ae67-2eced0e88f6d} event:/Medium Priority/Desviar
+{cf52e403-d8a5-4d77-b3b2-d0ef3099ef95} event:/Medium Priority/Embater no escudo
+{97f57f5f-fdad-4cd1-bda4-1df5863616d3} event:/Medium Priority/Fechar Caixa de Itens
+{df4d62c5-cee7-4503-a3bf-be03e8d954b8} event:/Medium Priority/Fechar Loja
+{3296779c-5ab5-4e0b-831a-e957b96fca5b} event:/Medium Priority/Final Boss Music
+{f9d79708-59b9-43ce-bd59-54e3ac87caaa} event:/Medium Priority/Upgrade da Loja

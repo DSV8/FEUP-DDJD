@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{26ea76fb-5183-4502-a439-b4e6a184cce3}">
+		<property name="assetPath">
+			<value>Laser continuo boss.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{e9bcea03-cb84-4beb-9068-7012a56f734f}</destination>
+		</relationship>
+	</object>
+</objects>
